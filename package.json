@@ -1,0 +1,33 @@
+{
+  "name": "json-to-alfred",
+  "version": "1.0.0",
+  "description": "Convert JSON to the XML required by Alfred's Script Filter for Workflows",
+  "main": "lib/index.js",
+  "bin": {
+    "json-to-alfred": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "./bin/cli.js example/full.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanLovely/json-to-alfred.git"
+  },
+  "keywords": [
+    "alfred"
+  ],
+  "author": "Evan Lovely",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvanLovely/json-to-alfred/issues"
+  },
+  "homepage": "https://github.com/EvanLovely/json-to-alfred#readme",
+  "directories": {
+    "lib": "lib",
+    "bin": "bin"
+  },
+  "dependencies": {
+    "mustache": "^2.1.3"
+  }
+}
+

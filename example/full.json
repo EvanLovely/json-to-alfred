@@ -1,0 +1,12 @@
+{
+  "results": [
+    {
+      "uid": "uid here",
+      "arg": "arg here",
+      "title": "title here",
+      "subtitle": "subtitle",
+      "copy": "text to copy here",
+      "largeType": "display large text here"
+    }
+  ]
+}

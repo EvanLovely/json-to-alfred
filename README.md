@@ -29,7 +29,7 @@ var data = {
     ]
 };
 
-var xml = jsonToAlfred(data);
+var xml = jsonToAlfred.createItems(data);
 console.log(xml);
 ```
 

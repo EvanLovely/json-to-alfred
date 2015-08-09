@@ -1,6 +1,6 @@
 {
   "name": "json-to-alfred",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Convert JSON to the XML required by Alfred's Script Filter for Workflows",
   "main": "lib/index.js",
   "bin": {
